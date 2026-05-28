@@ -25,7 +25,8 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 ├── Report.pdf
 └── figures/
     ├── schematics_and_layout/
-    └── simulation_results/
+    ├── simulation_results/
+    └── performance_comparison_table.png
 ```
 
 ## Thesis Report
@@ -49,7 +50,7 @@ The `figures/schematics_and_layout/` folder contains the main schematic-level an
 
 ## Simulation Results
 
-The `figures/simulation_results/` folder contains the following simulation-result plots:
+The `figures/simulation_results_/` folder contains the following simulation-result plots:
 
 * `cmrr_layout_vs_schematic.png`
 * `gain_bandwidth_without_output_filter.png`
