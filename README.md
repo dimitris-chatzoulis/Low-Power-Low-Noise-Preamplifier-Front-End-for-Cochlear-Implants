@@ -29,7 +29,7 @@ The full thesis is available through the Aristotle University of Thessaloniki In
 ```
 
 ## Thesis Report
-[View Thesis Report](./Thesis_Report_GitHub.pdf)
+[View Thesis Report](./Thesis_Report.pdf)
 
 `Thesis_Report.pdf` contains the main chapters of the thesis report. It provides the full explanation of the methodology, simulations, and conclusions.
 
